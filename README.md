@@ -1,5 +1,5 @@
 # BBP_Nouveau
-PNG images of wallpapers in the mod
+PNG images of wallpapers in the mod/ carpets
 
 can be found at the following links 
 Wallpapers Normal
